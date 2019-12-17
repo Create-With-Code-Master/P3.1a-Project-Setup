@@ -7,7 +7,7 @@ git-prev-branch:
 lesson:
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome:
+outcome: A new Unity project for Prototype 3 with the initial assets imported - plus a Git repository stored on GitHub for managing and backing up your work.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
 # Name and URL of repository holding the starter code for this assignment.
