@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 {% include time-estimate.html %}
 
-Create a Git repository for your prototype and publish it on GitHub:
+Create a Git repository for your prototype and publish it on GitHub. If you need them, step-by-step instructions for the process are in the [slides][]. <!-- Add link to troubleshooting tips. ->
 
 After **step 1:**
 1. Create a Git repository for your Unity project.
