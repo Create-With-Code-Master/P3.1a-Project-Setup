@@ -4,13 +4,13 @@ layout: tabbed-assignment
 
 # Learning Targets
 
-This is a process which repeats for each prototype, by the end of the class you should be able to:
+This is a process which repeats for each prototype, by the end of the semester you should be able to:
 * Create a new Git repository for an existing Unity project (and if you can do it for a Unity project, you should be able to do it for any existing body of code that you want to manage with Git).
 * Summarize and commit your changes.
 * Create a new branch.
 * Publish your work by pushing to GitHub.
 
-without needing to refer to the slides or your notes.
+All without needing to refer to the slides or your notes.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
