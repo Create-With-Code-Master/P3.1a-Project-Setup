@@ -8,7 +8,7 @@ layout: tabbed-assignment
 
 In this assignment you will setup Prototype 3, in which you will create an side scrolling infine runner. At the end of this assignment you'll have a new Unity project with the initial assets imported - with a Git repository on GitHub to manage and backup your work.
 
-By this point the process of setting up a new Unity project, importing assets, and creating a Git repository should be starting to feel very familiar.
+By this point, the process of setting up a new Unity project, importing assets, and creating a Git repository should be starting to feel very familiar. You might want to try doing it on your own.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
