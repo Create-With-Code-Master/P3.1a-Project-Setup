@@ -10,13 +10,13 @@ Create a Git repository for your prototype and publish it on GitHub. If you need
 
 After **creating a Unity project for {{site.data.assignment.starter-code-repo}}:**
 1. Create a Git repository for your Unity project.
-1. Publish the repository.
-1. Create a new **lesson-1** branch.
+1. Publish the repository on GitHub.
+1. Create a new **{{site.data.assignment.git-curr-branch}}** branch.
 
 After **completing importing your assets:**
-1. Commit your changes.
+1. Commit your changes to the **{{site.data.assignment.git-curr-branch}}** branch.
 1. Push your changes to GitHub (which will cause the branch to be published).
-1. Review the instruction on the **Submission** tab and submit the assignment.
+1. Review the instructions on the **Submission** tab and submit the assignment.
 1. Complete the rest of Lesson 1.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead. -->
