@@ -9,7 +9,7 @@ lesson: https://learn.unity.com/tutorial/lesson-3-1-jump-force
 # below the tabs
 outcome: A new Unity project for Prototype 3 with the initial assets imported - plus a Git repository stored on GitHub for managing and backing up your work.
 # Link to lesson slides, displayed on Resources tab if not empty.
-slides:
+slides: https://docs.google.com/presentation/d/1DpnjpZn-y7eb_IlQ1mBs7udO6pTx0cqnLZW5PLBuogs/edit?usp=sharing
 # Name and URL of repository holding the starter code for this assignment.
 starter-code-org:
 starter-code-repo: Prototype-3
